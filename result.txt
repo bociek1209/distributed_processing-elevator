@@ -1,0 +1,62 @@
+[1;35m [0]: Elevator capacity:15[0;37m
+[1;35m [0]: Courier:2  wants to go with a package weighing:5 by elevator to the floor.[0;37m
+[1;35m [4]: Courier:2  rides with package weighing:5 by elevator to the floor.[0;37m
+[1;33m [2]: Elevator capacity:15[0;37m
+[1;33m [2]: Courier:0  wants to go with a package weighing:2 by elevator to the floor.[0;37m
+[1;34m [2]: Elevator capacity:15[0;37m
+[1;34m [2]: Courier:1  wants to go with a package weighing:2 by elevator to the floor.[0;37m
+[1;33m [7]: Courier:0  rides with package weighing:2 by elevator to the floor.[0;37m
+[1;35m [7]: Courier:2  leaves the elevator on the floor.[0;37m
+[1;33m [9]: Courier:0  leaves the elevator on the floor.[0;37m
+[1;34m [10]: Courier:1  rides with package weighing:2 by elevator to the floor.[0;37m
+[1;33m [9]: Courier:0  delivers the package.[0;37m
+[1;33m [10]: Courier:0  wants to take elevator to the ground.[0;37m
+[1;33m [13]: Courier:0  rides by the elevator to the ground.[0;37m
+[1;35m [11]: Courier:2  delivers the package.[0;37m
+[1;35m [12]: Courier:2  wants to take elevator to the ground.[0;37m
+[1;34m [14]: Courier:1  leaves the elevator on the floor.[0;37m
+[1;34m [14]: Courier:1  delivers the package.[0;37m
+[1;34m [15]: Courier:1  wants to take elevator to the ground.[0;37m
+[1;33m [17]: Courier:0  leaves the elevator on the ground.[0;37m
+[1;35m [18]: Courier:2  rides by the elevator to the ground.[0;37m
+[1;33m [17]: Elevator capacity:15[0;37m
+[1;33m [17]: Courier:0  wants to go with a package weighing:2 by elevator to the floor.[0;37m
+[1;33m [23]: Courier:0  rides with package weighing:2 by elevator to the floor.[0;37m
+[1;33m [24]: Courier:0  leaves the elevator on the floor.[0;37m
+[1;35m [26]: Courier:2  leaves the elevator on the ground.[0;37m
+[1;35m [26]: Elevator capacity:15[0;37m
+[1;35m [26]: Courier:2  wants to go with a package weighing:10 by elevator to the floor.[0;37m
+[1;34m [28]: Courier:1  rides by the elevator to the ground.[0;37m
+[1;35m [30]: Courier:2  rides with package weighing:10 by elevator to the floor.[0;37m
+[1;33m [28]: Courier:0  delivers the package.[0;37m
+[1;33m [29]: Courier:0  wants to take elevator to the ground.[0;37m
+[1;35m [32]: Courier:2  leaves the elevator on the floor.[0;37m
+[1;35m [32]: Courier:2  delivers the package.[0;37m
+[1;35m [33]: Courier:2  wants to take elevator to the ground.[0;37m
+[1;34m [35]: Courier:1  leaves the elevator on the ground.[0;37m
+[1;33m [36]: Courier:0  rides by the elevator to the ground.[0;37m
+[1;34m [35]: Elevator capacity:15[0;37m
+[1;34m [35]: Courier:1  wants to go with a package weighing:2 by elevator to the floor.[0;37m
+[1;34m [41]: Courier:1  rides with package weighing:2 by elevator to the floor.[0;37m
+[1;33m [38]: Courier:0  leaves the elevator on the ground.[0;37m
+[1;34m [42]: Courier:1  leaves the elevator on the floor.[0;37m
+[1;35m [40]: Courier:2  rides by the elevator to the ground.[0;37m
+[1;33m [43]: Elevator capacity:15[0;37m
+[1;33m [43]: Courier:0  wants to go with a package weighing:8 by elevator to the floor.[0;37m
+[1;33m [47]: Courier:0  rides with package weighing:8 by elevator to the floor.[0;37m
+[1;34m [45]: Courier:1  delivers the package.[0;37m
+[1;34m [46]: Courier:1  wants to take elevator to the ground.[0;37m
+[1;35m [48]: Courier:2  leaves the elevator on the ground.[0;37m
+[1;34m [51]: Courier:1  rides by the elevator to the ground.[0;37m
+[1;34m [52]: Courier:1  leaves the elevator on the ground.[0;37m
+[1;33m [50]: Courier:0  leaves the elevator on the floor.[0;37m
+[1;33m [53]: Courier:0  delivers the package.[0;37m
+[1;33m [54]: Courier:0  wants to take elevator to the ground.[0;37m
+[1;34m [55]: Elevator capacity:15[0;37m
+[1;34m [55]: Courier:1  wants to go with a package weighing:8 by elevator to the floor.[0;37m
+[1;35m [57]: Elevator capacity:15[0;37m
+[1;35m [57]: Courier:2  wants to go with a package weighing:10 by elevator to the floor.[0;37m
+[1;34m [61]: Courier:1  rides with package weighing:8 by elevator to the floor.[0;37m
+[1;34m [62]: Courier:1  leaves the elevator on the floor.[0;37m
+[1;33m [63]: Courier:0  rides by the elevator to the ground.[0;37m
+[1;35m [64]: Courier:2  rides with package weighing:10 by elevator to the floor.[0;37m

@@ -1,0 +1,22 @@
+Scope:
+Distributed Processing:
+
+Task Content:
+We have a building with a freight elevator leading to the top floor. Process-suppliers
+want to get to the top. One way they carry X-kilogram loads, back they always
+take up 1 seat.
+The elevator has a maximum load capacity of N kg.
+
+Description:
+The program handles communication between threads that are trying to access different sections.
+Thanks to the use of the Lamport Clock, we are able to prevent jamming despite distributed communication.
+
+Technology:
+C++, MPI
+
+Launch:
+1. It is necessary to have a system on which the support of MPI is implemented.
+2. You need to run the Macfile by calling the command: make -f Makefile test .
+
+Effect:
+After launching, we will see the flow of information between processes and how they access different sections.
