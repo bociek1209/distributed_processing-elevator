@@ -12,7 +12,7 @@ The program handles communication between threads that are trying to access diff
 Thanks to the use of the Lamport Clock, we are able to prevent jamming despite distributed communication.
 
 Technology:
-C++, MPI
+C, MPI
 
 Launch:
 1. It is necessary to have a system on which the support of MPI is implemented.
